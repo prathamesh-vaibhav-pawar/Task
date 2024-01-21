@@ -1,0 +1,17 @@
+
+.Taskk{
+    background-color: transparent;
+    width: 100%;
+    padding: 40px;
+    border-radius: 5px;
+}
+.Taskk:hover{
+    background-color: lightslategray;
+}
+.buttn{
+    float: right;
+    margin-left: 3px;
+}
+.buttn1{
+    float: right;
+}
